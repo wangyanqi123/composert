@@ -1,0 +1,12 @@
+{
+    "name": "wangqi/avatar",
+    "description": "ds",
+    "type": "library",
+    "require": {
+        "php": ">=5.5"
+    },
+    "require-dev": {
+        "php": ">7"
+    },
+    "minimum-stability": "dev"
+}
